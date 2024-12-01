@@ -1,0 +1,7 @@
+# Base path where Hugo sites are located
+base_path: "/mnt/storage/hugo_sites"
+
+# List of sites to manage
+sites:
+  - ejr
+#  - tkomail
