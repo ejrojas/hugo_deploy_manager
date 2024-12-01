@@ -81,7 +81,7 @@ Add a schedule (e.g., twice daily at 2 AM and 2 PM):
 0 2,14 * * * cd /path/to/hugo_deploy_manager && python deploy.py
 ```
 
-##Directory Structure
+## Directory Structure
 ```
 hugo_sites/
 ├── deploy_manager/
